@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371338752738",
+    "project_id": "chattingapp-6f860",
+    "storage_bucket": "chattingapp-6f860.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371338752738:android:39cbb7afa32f7bfff0a4bb",
+        "android_client_info": {
+          "package_name": "com.apps.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371338752738-ij03geel9bsvsukgu8hh6h86tkcebok4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLLmjx1X7gc6v855DxHoJ0e6Pb4kMWy7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371338752738-ij03geel9bsvsukgu8hh6h86tkcebok4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
